@@ -1,0 +1,15 @@
+Link para baixar o Git no seu computador: https://git-scm.com
+
+> Vale lembrar que Git é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência. O Git é fácil de aprender e possui desempenho extremamente rápido. Ele supera ferramentas SCM como Subversion, CVS, Perforce e ClearCase com recursos como ramificação local barata, áreas de teste convenientes e vários fluxos de trabalho.
+
+
+## Configurações básicas no Git:
+
+É importante nos identificarmos para o Git, informando nosso nome e
+e-mail. 
+
+Em um terminal, execute os comandos a seguir:
+$ git config --global user.name "Fulano Gomes"
+$ git config --global user.email fulanogomes.git@gmail.com
+
+
